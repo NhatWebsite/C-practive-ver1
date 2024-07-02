@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laptrinh1/1.0.0": {
+        "runtime": {
+          "laptrinh1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laptrinh1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
